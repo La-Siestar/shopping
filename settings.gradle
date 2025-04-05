@@ -1,0 +1,6 @@
+rootProject.name = 'modern-java'
+include 'park'
+include 'kong'
+include 'ho'
+include 'mean'
+
