@@ -15,7 +15,7 @@ import java.net.URI;
 
 @RestController
 @RequiredArgsConstructor
-@RequestMapping("/api/v1/members")
+@RequestMapping("")
 public class MemberController {
 
      private final MemberCommandPort memberCommandPort;
