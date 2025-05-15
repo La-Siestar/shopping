@@ -1,9 +1,9 @@
 package com.siesta.shopping.user.infrastructure.inbound.rest;
 
 
-import com.siesta.application.ports.input.MemberCommandPort;
-import com.siesta.application.ports.input.MemberQueryPort;
-import com.siesta.infrastructure.inbound.rest.dto.MemberRequestDto;
+import com.siesta.shopping.user.application.ports.input.MemberCommandPort;
+import com.siesta.shopping.user.application.ports.input.MemberQueryPort;
+import com.siesta.shopping.user.infrastructure.inbound.rest.dto.MemberRequestDto;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.PostMapping;

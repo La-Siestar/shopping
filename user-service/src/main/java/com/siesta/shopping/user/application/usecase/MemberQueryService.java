@@ -1,8 +1,8 @@
 package com.siesta.shopping.user.application.usecase;
 
 
-import com.siesta.application.ports.input.MemberQueryPort;
-import com.siesta.infrastructure.inbound.rest.dto.MemberResponseDto;
+import com.siesta.shopping.user.application.ports.input.MemberQueryPort;
+import com.siesta.shopping.user.infrastructure.inbound.rest.dto.MemberResponseDto;
 import org.springframework.stereotype.Service;
 
 import java.util.List;
